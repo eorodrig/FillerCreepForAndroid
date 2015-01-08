@@ -20,3 +20,9 @@ local.properties
 proguard/
 # Log Files
 *.log
+
+#new things
+#temp files
+*~
+#History
+.Rhistory
